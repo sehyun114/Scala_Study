@@ -211,7 +211,7 @@ The left- and right-most pipes (`|`) are only aesthetic, and can be omitted. The
 
 This is a fenced code block:
 
-```
+```c
 print('Hello world!')
 ```
 
